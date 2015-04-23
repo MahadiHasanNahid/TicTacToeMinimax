@@ -14,7 +14,7 @@ import javax.swing.SwingUtilities;
 
 /**
  *
- * @author HP
+ * @author Mahadi Hasan Nahid
  */
 public class Game {
 
